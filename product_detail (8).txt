@@ -1,0 +1,356 @@
+TV_HOME_THEATURE: 
+
+Title :  Buy Samsung Online | Kogan.com
+Total Products  76: yes
+
+
+Title :  Buy Apple Online | Kogan.com
+Total Products  13 : yes
+
+
+Title :  Buy Google Online | Kogan.com
+Total Products  7 : yes
+
+
+Title :  Buy Philips Online | Kogan.com
+Total Products  549 : yes 
+
+
+Title :  Buy Sony Online | Kogan.com
+Total Products  38 : yes
+
+
+Title :  Buy LG Online | Kogan.com
+Total Products  35 :  yes
+
+
+Title :  Buy Panasonic Online | Kogan.com
+Total Products  45: yes
+
+
+Title :  Buy Pioneer Online | Kogan.com
+Total Products  6 : 
+
+
+Title :  Buy Yamaha Products Online | Kogan.com
+Total Products  425: yes
+
+Total TV_HOME_THEATURE PRODUCTS : 1194
+
++++++++++++++++++++++++++++++++++++++++++
+
+Phones_Tablets_Wearables: 
+
+Title :  Buy Apple Phones, Tablets & Wearables Online | Kogan.com
+Total Products  3348 : yes
+
+
+Title :  Buy Samsung Phones, Tablets & Wearables Online | Kogan.com
+Total Products  3323: yes
+
+
+Title :  Buy OnePlus Phones, Tablets & Wearables Online | Kogan.com
+Total Products  155: yes
+
+
+Title :  Buy Google Phones, Tablets & Wearables Online | Kogan.com
+Total Products  425 : yes
+
+
+Title :  Buy Garmin Phones, Tablets & Wearables Online | Kogan.com
+Total Products  182: yes
+
+
+Title :  Buy Sony Phones, Tablets & Wearables Online | Kogan.com
+Total Products  68
+
+
+
+Title :  Buy Xiaomi Phones, Tablets & Wearables Online | Kogan.com
+Total Products  414
+
+
+Total Phones_Tablets_Wearables PRODUCTS : 7915
+
++++++++++++++++++++++++++++++++++++++++
+
+Computers, Laptops & Gaming: 
+
+Title :  Buy Lenovo Computers, Laptops & Gaming Online | Kogan.com
+Total Products  1364 : yes
+
+
+Title :  Buy Apple Computers, Laptops & Gaming Online | Kogan.com
+Total Products  994 : yes
+
+
+Title :  Buy Samsung Computers, Laptops & Gaming Online | Kogan.com
+Total Products  284 : yes
+
+
+Title :  Buy Microsoft Computers, Laptops & Gaming Online | Kogan.com
+Total Products  344 : yes
+
+
+Title :  Buy HP Computers, Laptops & Gaming Online | Kogan.com
+Total Products  1629 : yes
+
+
+Title :  Buy LG Computers, Laptops & Gaming Online | Kogan.com
+Total Products  241
+
+
+Title :  Buy Google Computers, Laptops & Gaming Online | Kogan.com
+Total Products  11
+
+
+Title :  Buy Xbox Computers, Laptops & Gaming Online | Kogan.com
+Total Products  46
+
+
+Title :  Playstation Consoles, Games and Accessories | kogan.com
+Total Products  78
+
+
+Title :  Buy Nintendo Computers, Laptops & Gaming Online | Kogan.com
+Total Products  428 : yes
+
+
+Title :  Buy Gorilla Gaming Computers, Laptops & Gaming Online | Kogan.com
+Total Products  5 : no
+
+
+Total Computers, Laptops & Gaming PRODUCTS :  5424
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Electronics PRODUCTS :
+
+Title :  Buy Canon Online | Kogan.com
+Total Products  13 : no
+
+
+Title :  Buy Nikon Online | Kogan.com
+Total Products  1 : no
+
+
+Title :  Buy DJI Online | Kogan.com
+Total Products  3:no
+
+
+Title :  Buy Arlo Online | Kogan.com
+Total Products  23
+
+
+Title :  Buy Swann Online | Kogan.com
+Total Products  138
+
+
+Title :  Buy Fujifilm Online | Kogan.com
+Total Products  3
+
+
+Title :  Buy Apple Online | Kogan.com
+Total Products  128 : yes
+
+
+Title :  Buy Ultimate Ears Online | Kogan.com
+Total Products  13
+
+
+Title :  Buy LaCie Products Online | Kogan.com
+Total Products  91 : yes
+
+
+Title :  Buy Oculus Online | Kogan.com
+Total Products  9
+
+Total Electronics PRODUCTS :   422
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Smart_Home:
+
+Title :  Buy Philips Smart Home Online | Kogan.com
+Total Products  103 : yes 
+
+
+Title :  Buy Apple Smart Home Online | Kogan.com
+Total Products  10
+
+
+Title :  Buy Amazon Smart Home Online | Kogan.com
+Total Products  7
+
+
+Title :  Buy Google Smart Home Online | Kogan.com
+Total Products  47  : yes
+
+
+Title :  Buy LIFX Smart Home Online | Kogan.com
+Total Products  27
+
+
+Title :  Buy Ring Smart Home Online | Kogan.com
+Total Products  37
+
+
+Total Smart_Home PRODUCTS :   231
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Appliances_Whitegoods :
+
+Title :  Buy De'Longhi Appliances Online | Kogan.com
+Total Products  53
+
+
+Title :  Buy Sunbeam Appliances Online | Kogan.com
+Total Products  105
+
+
+Title :  Buy Kitchenaid Appliances Online | Kogan.com
+Total Products  116
+
+
+Title :  Buy Dyson Appliances Online | Kogan.com
+Total Products  198
+
+
+Title :  Buy Xiaomi Appliances Online | Kogan.com
+Total Products  56
+
+
+Title :  Buy Roborock Appliances Online | Kogan.com
+Total Products  121
+
+
+Title :  Buy Gaggia Appliances Online | Kogan.com
+Total Products  25
+
+
+Title :  Buy Devanti Appliances Online | Kogan.com
+Total Products  153
+
+
+Title :  Buy Healthy Choice Appliances Online | Kogan.com
+Total Products  97
+
+
+Title :  Buy iRobot Appliances Online | Kogan.com
+Total Products  69
+
+
+Total Appliances_Whitegoods PRODUCTS :   993
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Home_Garden:
+
+Title :  Buy Ergolux Online | Kogan.com
+Total Products  134
+
+
+Title :  Buy Ovela Online | Kogan.com
+Total Products  754
+
+
+Title :  Buy Matt Blatt Online | Kogan.com
+Total Products   599
+
+
+Title :  Buy Trafalgar Online | Kogan.com
+Total Products  134
+
+
+Title :  Buy Certa Online | Kogan.com
+Total Products  122
+
+
+Title :  Buy Shangri-La Online | Kogan.com
+Total Products  504 : yes
+
+
+Title :  Buy Royal Comfort Online | Kogan.com
+Total Products  589 :YES
+
+Total Home_Garden PRODUCTS :   2836
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Toys & Hobbies :
+
+Title :  Toys & Hobbies
+Total Products  1116 : sir sikandar
+
+
+Total Toys_Hobbies PRODUCTS :  1116
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+Sports_Outdoors_Travel: 
+
+Title :  Buy Fortis Sports, Outdoors & Travel Online | Kogan.com
+Total Products  97
+
+
+Title :  Buy Komodo Sports, Outdoors & Travel Online | Kogan.com
+Total Products  73
+
+
+Title :  Buy American Tourister Sports, Outdoors & Travel Online | Kogan.com
+Total Products  12
+
+
+Title :  Buy Garmin Sports, Outdoors & Travel Online | Kogan.com
+Total Products  1056
+
+
+Title :  Buy Xiaomi Sports, Outdoors & Travel Online | Kogan.com
+Total Products  29
+
+
+Title :  Buy Caribee Sports, Outdoors & Travel Online | Kogan.com
+Total Products  133
+
+
+Title :  Buy Everlast Sports, Outdoors & Travel Online | Kogan.com
+Total Products  144
+
+
+Title :  Buy Manduka Sports, Outdoors & Travel Online | Kogan.com
+Total Products  46
+
+
+Total Sports_Outdoors_Travel PRODUCTS :   1590
+
+++++++++++++++++++++++++++++++++++++++
+
+Tools_Automotive : 
+
+Title :  Buy Certa Tools & Automotive Online | Kogan.com
+Total Products  92
+
+
+Title :  Buy ROK Tools & Automotive Online | Kogan.com
+Total Products  56
+
+
+Title :  Buy Komodo Tools & Automotive Online | Kogan.com
+Total Products  1
+
+
+Title :  Buy Stanley Tools & Automotive Online | Kogan.com
+Total Products  656
+
+
+Title :  Buy Daytek Tools & Automotive Online | Kogan.com
+Total Products  1
+
+
+Title :  Buy Garmin Tools & Automotive Online | Kogan.com
+Total Products  214
+
+
+Total Tools_Automotive  PRODUCTS :   1020
+
